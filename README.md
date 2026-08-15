@@ -13,7 +13,7 @@ Analyzed startup and tech sector performance (2014-2017 dataset) to identify gro
 - Excel: Data Cleaning, PivotTables, Slicers, Interactive Dashboard Design
 
 ### Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### What I Did
 1. Cleaned 9,994 rows of raw sales data
