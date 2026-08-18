@@ -1,31 +1,25 @@
+# Superstore Growth Dashboard | Excel
 
-# Startup & Tech Industry Analysis | SA Market
+Analyzed 4 years of retail sales data (2014-2017) to uncover what drove 52% growth from R484K to R733K.
 
-### Overview
-Analyzed startup and tech sector performance (2014-2017 dataset) to identify growth drivers and revenue opportunities. Project demonstrates transition from Operations to Data Analytics.
+## What I Found
+📊 Technology category generated R836K - highest revenue driver
+🌍 West region leads sales at R725K
+📈 Clear YoY growth trend 2014-2017
 
-### Key Insights
-- Top Performing Vertical: Technology - R836,154 total sales
-- Growth Trend: 52% YoY Growth - from R484K (2015) to R733K (2017)
-- Key Finding: West region drives highest sales at R725,457 but Central region shows profit leakage - opportunity for cost optimization
+## Dashboard Features
+- KPIs: Total Sales, Profit, Orders
+- Sales by Category / Sub-Category
+- Regional Performance
+- Monthly Sales Trend with Slicers
 
-### Tools Used
-- Excel: Data Cleaning, PivotTables, Slicers, Interactive Dashboard Design
+## Tools Used
+Excel | PivotTables | Pivot Charts | Slicers | KPI Design
 
-### Dashboard Preview
-![Dashboard](Dashboard.png)
+## Files
+- Superstore_Growth_Dashboard.xlsx - Interactive dashboard
+- Dashboard.png - Preview
 
-### What I Did
-1. Cleaned 9,994 rows of raw sales data
-2. Built 4 PivotTables for Revenue by Category / Region / Year
-3. Created interactive dashboard with growth trend visualization
-4. Identified top performers & profit leak regions
+Built to practice translating raw sales data into business decisions.
 
-### Files
-- Superstore_Dashboard_Sokhulu.xlsx - Full interactive dashboard
-- dashboard-screenshot.png - High-res preview
-
-### Business Recommendation
-Focus marketing on Tech in West region, while investigating fulfillment costs in Central & South to improve margin.
-
-Connect with me on LinkedIn: [[]](https://www.linkedin.com/in/athembele-mlobeli-969413241) 
+#DataAnalytics #Excel #Dashboard
